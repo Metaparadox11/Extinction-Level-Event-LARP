@@ -1,0 +1,14 @@
+*.aux
+*.pdf
+*.gz
+*.log
+*.sty~
+*.cls~
+*.gz(busy)
+*.toc
+*.fls
+*.dvi
+*.tex~
+*latexmk
+LaTeX/Extinction-Level-Event_path.cls.tex
+LaTeX/Extinction-Level-Event_path.cls
